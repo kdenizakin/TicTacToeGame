@@ -13,7 +13,7 @@ typedef struct {
 void define_grid(int x, int y, char row1[], char row2[], char row3[]);
 void game1vs1();
 int check(char row1[], char row2[], char row3[]);
-int file_operations_pre(player *players, int *score1, int *score2); //For pre-game.
+int file_operations_pre(player *players); //For pre-game.
 int file_operations_post(char *winner); //For post-game.
 int displayScores(char *firstname ,char *secondname);//Scan a file in order to determine if current player names are in the list.
 //void displayScores(char *firstname ,char *secondname);
