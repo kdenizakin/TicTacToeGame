@@ -9,8 +9,7 @@ typedef struct {
     int second_score;
 
 }player;
-
-
+asþkfnaslk
 void define_grid(int x, int y, char row1[], char row2[], char row3[]);
 void game1vs1();
 int check(char row1[], char row2[], char row3[]);
