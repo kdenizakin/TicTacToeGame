@@ -1,6 +1,5 @@
 # TicTacToeGame
 This is the TicTacToe game which I wrote on C language.
--In order to play the game you need to copy the "main.c" file to your c compiler and run it.
 
 -This program requires you to enter the first player name and second players name.
 
